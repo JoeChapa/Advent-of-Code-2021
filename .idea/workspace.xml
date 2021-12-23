@@ -56,13 +56,17 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="776" y="379" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1638933015856" />
-    <state x="533" y="219" key="SettingsEditor" timestamp="1638934472399">
+    <state x="533" y="219" key="SettingsEditor" timestamp="1639970719543">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="533" y="219" key="SettingsEditor/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1638934472399" />
-    <state x="721" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1638992154628">
+    <state x="533" y="219" key="SettingsEditor/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1639970719543" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1639439069730">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="721" y="400" key="com.intellij.ide.util.TipDialog/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1638992154628" />
+    <state width="498" height="446" key="SwitcherDM/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1639439069730" />
+    <state x="721" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1640275636112">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="721" y="400" key="com.intellij.ide.util.TipDialog/0.0.2048.1152/-2560.0.2048.1152@0.0.2048.1152" timestamp="1640275636112" />
   </component>
 </project>
