@@ -66,8 +66,8 @@ input = scan('E:\\Users\\Rondo\\Documents\\Advent of Code 2021\\Day 9\\Day 9 Inp
 map = input_to_matrix(input)
 dim(map)
 lows = generate_low_points(map)
-generate_risk(map, lows)
-
+ans = generate_risk(map, lows)
+ans
 
 ###Start part 2
 #This function finds the lengths of of each basin
@@ -103,4 +103,5 @@ basins = find_basins(map, lows)
 #Now we just need to sort basins and get the largest 3
 sorted_basins = sort(basins, decreasing = TRUE)
 #sorted_basins[1:3]
-sorted_basins[1] * sorted_basins[2] * sorted_basins[3]
+part_2_ans = sorted_basins[1] * sorted_basins[2] * sorted_basins[3]
+part_2_ans
